@@ -1,2 +1,2 @@
-# Github-badges!!
+# Github-badges
 
